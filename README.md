@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aman-OG
+- 👋 Hi, I’m Aman
 - 👀 I’m interested in programming and IT
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on any programming languages
